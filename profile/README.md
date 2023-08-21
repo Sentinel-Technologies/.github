@@ -11,8 +11,7 @@ From Code IDE's to Drone VTOL's this is the place where communities come togethe
 
 ## Projects 
 
-* Drone VTOL v1
-* Laser Beam
+* Shard the greatest crypto of all time! v0.1.0
 
 ## Get Involved
 
